@@ -1,9 +1,12 @@
-## Hi, I'm Caian Keller 🙋‍♂️
+## Hey, I'm Caian Keller 🙋‍♂️
 
-##### Programming is an art form. Make it personal.
+##### Programming is an art form.
 
-###### My favorite colour is ![#ED958B](https://placehold.co/15x15/ED958B/ED958B.png) ___#ED958B___ and I absolutely love IBM Plex Mono and tRPC
+I'm currently crafting [Read w/ Olinda](https://olind.app), a minimal, touch-optimized reading experience built from scratch for full-text interaction; no PDFs, no compromise.
 
-##### Currently building [Read w/ Olinda](https://readwjulia.caiankeller.com)
+I use Arch, btw
+![My Setup](https://github.com/user-attachments/assets/10df4520-4ce8-477a-8608-8609a1dc4055)
 
-###### https://caiankeller.com
+> You can learn more about me and my projects at [caiankeller.com](https://caiankeller.com)
+
+###### I love my wife
