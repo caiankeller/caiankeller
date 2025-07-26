@@ -5,4 +5,4 @@ I'm currently crafting [Read w/ Olinda](https://olind.app), a minimal, touch-opt
 
 I love gigi
 
-Learn [mirandes](https://lhengua.org/lalhengua/)
+[Learn mirandes](https://lhengua.org/lalhengua/)
