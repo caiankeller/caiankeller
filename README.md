@@ -9,4 +9,4 @@ More at [caiankeller.com](https://caiankeller.com).
 
 [Learn mirandes](https://lhengua.org/lalhengua/)
 
-<img src="https://komarev.com/ghpvc/?caiankeller" width="1" height="1" />
+<img src="https://komarev.com/ghpvc/?username=caiankeller" width="1" height="1" />
