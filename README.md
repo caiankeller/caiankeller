@@ -5,8 +5,6 @@ Also working on [bacco.space](https://grabify.link/MX6ERR), a virtual mailer bui
 
 More at [caiankeller.com](https://caiankeller.com).
 
-#### I love gigi
-
 [Learn mirandes](https://lhengua.org/lalhengua/)
 
 <img src="https://komarev.com/ghpvc/?username=caiankeller" width="1" height="1" />
