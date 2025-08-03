@@ -1,9 +1,6 @@
-## Hey, I'm Caian Keller 🙋‍♂️
+More about Caian at [caiankeller.com](https://caiankeller.com)...
 
-I'm building [olind.app](https://olind.app), a touch-native reading experience; no PDFs, no compromise.  
-Also working on ##########, a virtual mailer built to be the best.
-
-More at [caiankeller.com](https://caiankeller.com).
+Try [olind.app](https://olind.app)
 
 [Learn mirandes](https://lhengua.org/lalhengua/)
 
