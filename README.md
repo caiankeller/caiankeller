@@ -7,6 +7,4 @@ Or open [olind.app](https://olind.app); my ebook reader for language learners. I
 
 Aidâ a mantê lo nôrti de Portugal vivu, [learn Mirandês](https://lhengua.org/lalhengua/)  
 
-<img src="https://komarev.com/ghpvc/?username=caiankeller" width="0" height="0" />
-
 grandpa fought in the war
