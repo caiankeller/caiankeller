@@ -8,3 +8,5 @@ Or open [olind.app](https://olind.app); my ebook reader for language learners. I
 Aidâ a mantê lo nôrti de Portugal vivu, [learn Mirandês](https://lhengua.org/lalhengua/)  
 
 grandpa fought in the war
+
+### I truly believe she will be back, because God put her in my life for a reason.
