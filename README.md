@@ -9,4 +9,4 @@ Aidâ a mantê lo nôrti de Portugal vivu, [learn Mirandês](https://lhengua.org
 
 grandpa fought in the war
 
-### I truly believe she will be back, because God put her in my life for a reason.
+### i still can do something for us
