@@ -6,3 +6,5 @@ Or open [olind.app](https://olind.app); my ebook reader for language learners. I
 Aidâ a mantê lo nôrti de Portugal vivu, [learn Mirandês](https://lhengua.org/lalhengua/)
 
 grandpa fought in the war ![](https://hit.yhype.me/github/profile?account_id=90738862)
+
+I love you, Gi, as I never loved someone before, and I would prove it each day, every day.
