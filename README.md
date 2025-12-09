@@ -4,4 +4,4 @@ grandpa fought in the war; grandma sacrificed everything for the family ![](http
 
 #### † Antonio [Augusto](https://caiankeller.com/augusto) da Costa Azevedo Cardoso | Portugal feb, 1946 - Brazil sep, 2018
 
-I wish tou well
+I wish you well
