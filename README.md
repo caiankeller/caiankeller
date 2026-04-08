@@ -14,7 +14,3 @@ the tool for writing and importing books directly from project gutenberg
 (very) minimalist TUI application launcher for arch linux / hyprland (pr's welcomed)
 
 ##### grandpa fought in the war ![](https://flagcdn.com/w20/eu.png) ![](https://flagcdn.com/w20/pt.png)
-
-////
-
-Obrigado! miss u
