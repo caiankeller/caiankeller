@@ -1,4 +1,4 @@
-#### Check my site [here](https://caiankeller.com/). I don't know, I just want to build great things... ![](https://hit.yhype.me/github/profile?account_id=90738862)
+#### Check my site [here](https://caiankeller.com/). I don't know, I just want to build great things...
 
 ### [.olnd](https://readwolinda.space/olnd)
 a book's DSL. opinionated and structured to streamline the maintenance of public domain literature and fix the mess of epub rendering. write once, export to anything
