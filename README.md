@@ -1,15 +1,9 @@
-#### Check my site [here](https://caiankeller.com/). I don't know, I just want to build great things...
+## **[caiankeller.com](https://caiankeller.com/)**
+##### *Building great things (@ least i try).*
 
-### [.olnd](https://readwolinda.space/olnd)
-a book's DSL. opinionated and structured to streamline the maintenance of public domain literature and fix the mess of epub rendering. write once, export to anything
+* ##### **[.olnd](https://readwolinda.space/olnd)** | A book focused DSL to (try) fix public domain literature and epub rendering. Write once, export anywhere, the mainteners would love that.
+* ##### **[.olndWorkspace](https://workspace.readwolinda.space)** | The environment for writing and importing books from Project Gutenberg.
+* ##### **[go launcher](https://github.com/caiankeller/golauncher)** | Minimalist TUI application launcher for Arch / Hyprland.
+* ##### **[gallery](https://github.com/caiankeller/gallery)** | Self-hosted photo gallery for the Instagram-less. ([Live view](https://gallery.caiankeller.com))
 
-### [.olndWorkspace](https://workspace.readwolinda.space)
-the tool for writing and importing books directly from project gutenberg
-
-#### [download alice-s-adventures-in-wonderland.olnd](https://lnx46oozjl1waafl.public.blob.vercel-storage.com/alice-s-adventures-in-wonderland.olnd) preview
-
-### [golauncher](https://github.com/caiankeller/golauncher)
-(very) minimalist TUI application launcher for arch linux / hyprland
-
-### [gallery](https://github.com/caiankeller/gallery)
-a minimalist, self-hosted photo gallery boilerplate for those who don't have an Instagram. see my pictures [here](https://gallery.caiankeller.com)
+##### Vacci piano
