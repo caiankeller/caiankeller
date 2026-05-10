@@ -9,5 +9,3 @@ yay -S golauncher-git
 ```bash
 npm i react-modern-cursor
 ```
-
-Silloge agora é aberto para todos https://silloge.caiankeller.com
