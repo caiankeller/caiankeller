@@ -10,7 +10,7 @@
 npm install direttore
 ```
 
-`[v0.3.0]` [`react-modern-cursor`](https://github.com/caiankeller/react-modern-cursor), a small, smooth, and modern custom cursor for React.
+`[v1.0.0-rc.0]` [`react-modern-cursor`](https://github.com/caiankeller/react-modern-cursor), a small, smooth, and modern custom cursor for React.
 
 ```bash
 npm install react-modern-cursor
