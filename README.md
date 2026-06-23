@@ -22,6 +22,4 @@ yay -S golauncher
 
 `[v0.5.0-experimental]`  [`.olnd`](https://readwolinda.space/olnd), a DSL for digital books powering [`Read w/ Olinda`](https://readwolinda.space/olnd).
 
-##### +55 11 96942-2080 whatsapp only
-
 ##### If you have the means, consider [sponsoring a child through Unbound](https://www.unbound.org). Not affiliated.
